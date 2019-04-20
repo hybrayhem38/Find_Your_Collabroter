@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if(task.isSuccessful()){
                             Log.d("bilgi","loginfunc,feedactivity");
-                            Intent i = new Intent(MainActivity.this,ProfileActivity.class);
+                            Intent i = new Intent(MainActivity.this,FeedActivity.class);
                             startActivity(i);
                             finish();
 

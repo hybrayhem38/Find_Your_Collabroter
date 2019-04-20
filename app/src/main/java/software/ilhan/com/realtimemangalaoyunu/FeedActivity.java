@@ -15,7 +15,7 @@ public class FeedActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_profile);
+        setContentView(R.layout.activity_feed);
 
         //(A) adımı
         ListView listemiz=(ListView) findViewById(R.id.listView1);
