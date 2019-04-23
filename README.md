@@ -1,2 +1,2 @@
-# RealTime_Firebase_alistirma
-Android Studio Firebase Realtime Database uygulaması, veri yazma ve ValueEventListener örnekleri
+# bes-bucuk
+A mobile app of social programmer collaborating platform
